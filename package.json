@@ -27,10 +27,10 @@
   "homepage": "https://vaul.emilkowal.ski/",
   "repository": {
     "type": "git",
-    "url": "https://github.com/emilkowalski/vaul.git"
+    "url": "https://github.com/dantish/vaul.git"
   },
   "bugs": {
-    "url": "https://github.com/emilkowalski/vaul/issues"
+    "url": "https://github.com/dantish/vaul/issues"
   },
   "devDependencies": {
     "@radix-ui/react-dialog": "^1.0.4",
